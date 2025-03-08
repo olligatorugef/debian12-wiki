@@ -39,8 +39,22 @@ Les termes de la licence Apache 2.0 sont les suivants :
 [Texte complet de la licence Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 ---
 
-# Licences supplémentaires (facultatif)
+# Licence GPL-3.0 pour certaines parties du code
 
-Si vous souhaitez distribuer certaines parties du projet sous des licences supplémentaires, précisez-les ici.
-Par exemple :
-- GPL-3.0 pour certaines fonctionnalités ou composants.
+Certaines parties de ce projet sont sous la licence GNU General Public License 3.0 (GPL-3.0). En particulier, le code dans le dossier `gpl-licensed/` est sous la licence GPL-3.0.
+
+La GNU GPL-3.0 permet à toute personne d'utiliser, de modifier et de redistribuer le logiciel, mais avec les conditions suivantes :
+- Toute modification ou redistribution du code doit être sous la même licence GPL-3.0.
+- Le code source doit être mis à disposition si le logiciel est distribué, que ce soit sous forme binaire ou sous forme de code source.
+- Aucune utilisation de la licence n'est autorisée pour restreindre la liberté d'utilisation ou de distribution.
+
+Vous pouvez consulter la licence complète ici : https://www.gnu.org/licenses/gpl-3.0.html
+
+Les termes de la GPL-3.0 sont les suivants :
+
+                  Licence publique générale GNU
+                      Version 3, juin 2007
+           https://www.gnu.org/licenses/gpl-3.0.html
+
+[Texte complet de la GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)
+---
